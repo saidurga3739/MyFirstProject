@@ -1,0 +1,5 @@
+2022-07-01 16:10:40 INFO  Log:11 - ====loginTest TEST START====
+2022-07-01 16:10:40 INFO  Log:22 - clicking on sign in
+2022-07-01 16:10:53 INFO  Log:22 - Entering username & password
+2022-07-01 16:10:55 INFO  Log:22 - getting the current url
+2022-07-01 16:10:55 INFO  Log:15 - ====loginTest TEST END====
