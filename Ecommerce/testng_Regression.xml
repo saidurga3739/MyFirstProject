@@ -9,12 +9,9 @@
          </run>
   </groups>
     <classes>
-     <class name="com.testing.testcases.LoginPageTest"/>
+     
       <class name="com.testing.testcases.IndexPageTest"/>
-      <class name="com.testing.testcases.SearchResultPageTest"/>
-      <class name="com.testing.testcases.HomePageTest"/>
-      <class name="com.testing.testcases.AccountCreationTest"/>
-      <class name="com.testing.testcases.AddToCartPageTest"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
